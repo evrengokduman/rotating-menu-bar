@@ -24,7 +24,7 @@ body {
 }
 /* if container has show-nav class rotate it */
 .container.show-nav {
-  transform: rotate(-15deg);
+  transform: rotate(-19deg);
 }
 /* open and close buttons on the top left */
 .circle-container {
